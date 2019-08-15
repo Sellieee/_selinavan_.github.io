@@ -4,9 +4,14 @@ body {
     height: 100%;
 }
 
-.cover-headline {
-    position: absolute;
+/* .cover-headline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
 
+.container {
+    margin: 0 auto !important;
 }
 
 .flex-container {
@@ -16,12 +21,26 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 
-.row {
-    width: 100%;
+.p-name {
+    color: goldenrod;
+}
+
+.p-text {
+    color: firebrick;
+}
+
+/* .flex-row {
+    max-width: 50%;
 }
 
 span {
     text-align: center;
+} */
+
+
+.fa-chevron-circle-down {
+    color: firebrick;
 }
