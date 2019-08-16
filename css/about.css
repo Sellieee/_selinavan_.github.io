@@ -8,12 +8,6 @@ nav {
     height: 100px;
 }
 
-/* .cover-headline {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-} */
-
 .container {
     margin: 0 auto !important;
     display: flex;
@@ -45,15 +39,6 @@ nav {
     font-size: 25px;
     line-height: 1.6;
 }
-
-/* .flex-row {
-    max-width: 50%;
-}
-
-span {
-    text-align: center;
-} */
-
 
 .fa-chevron-circle-down {
     color: firebrick;
