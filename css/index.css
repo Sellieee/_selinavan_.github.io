@@ -67,10 +67,12 @@ nav {
 #current-page:hover {
     color: white;
     background-color: firebrick;
+    text-decoration: none;
 }
 
 #second-page:hover {
     background-color: goldenrod;
+    text-decoration: none;
 }
 
 .navbar-brand {
@@ -90,7 +92,7 @@ nav {
 }
 
 .intro-end {
-    padding-bottom: 100px;
+    padding-bottom: 120px;
 }
 
 .p-thank {
@@ -98,7 +100,7 @@ nav {
     color: white;
     font-size: 25px;
     line-height: 1.6;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
 }
 
 .list-contact {
