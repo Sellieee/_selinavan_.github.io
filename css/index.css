@@ -46,15 +46,6 @@ nav {
     line-height: 1.6;
 }
 
-/* .flex-row {
-    max-width: 50%;
-}
-
-span {
-    text-align: center;
-} */
-
-
 .fa-chevron-circle-down {
     color: firebrick;
 }
@@ -96,4 +87,36 @@ span {
 
 .navbar-brand:hover {
     color: white;
+}
+
+.intro-end {
+    padding-bottom: 100px;
+}
+
+.p-thank {
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 25px;
+    line-height: 1.6;
+    padding-bottom: 50px;
+}
+
+.list-contact {
+    color: goldenrod;
+    font-family: 'Economica', sans-serif;
+    text-transform: uppercase;
+    font-size: 125%;
+}
+
+.list-contact:hover {
+    color: goldenrod;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.contact {
+    color: firebrick;
+    font-family: 'Economica', sans-serif;
+    text-transform: uppercase;
+    font-size: 125%;
 }
