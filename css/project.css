@@ -107,6 +107,8 @@ nav {
     width: 800px;
     display: flex;
     text-align: center;
+    justify-content: center;
+    background-color: transparent;
 }
 
 .card-img {
@@ -123,9 +125,11 @@ nav {
     font-size: 125%;
     font-family: 'Economica', sans-serif;
     text-transform: uppercase;
+    color: white;
 }
 
 .card-text {
     font-family: 'Economica', sans-serif;
     text-transform: uppercase;
+    color: white;
 }
