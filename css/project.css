@@ -114,3 +114,27 @@ nav {
 .contact-me {
     display: block;
 }
+
+.carousel-caption {
+    background-color: white;
+    color: black;
+    font-family: 'Economica', sans-serif;
+    text-transform: uppercase;
+}
+
+.card-title {
+    font-weight: bolder;
+    font-size: 125%;
+}
+
+.carousel-1 {
+    display: block;
+    clear: both;
+    float: left;
+}
+
+.carousel-2 {
+    display: block;
+    clear: both;
+    float: left;
+}
