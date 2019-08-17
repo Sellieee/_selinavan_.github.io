@@ -103,11 +103,13 @@ nav {
 
 .card {
     clear: both;
-    height: 300px;
-    width: 1000px;
+    height: 400px;
+    width: 800px;
+    display: flex;
+    text-align: center;
 }
 
-.card-img-top {
+.card-img {
     height: 200px;
 }
 
@@ -116,26 +118,14 @@ nav {
     text-align: center
 }
 
-.carousel-caption {
-    background-color: white;
-    color: black;
+.card-title {
+    font-weight: bolder;
+    font-size: 125%;
     font-family: 'Economica', sans-serif;
     text-transform: uppercase;
 }
 
-.card-title {
-    font-weight: bolder;
-    font-size: 125%;
-}
-
-.carousel-1 {
-    display: block;
-    clear: both;
-    float: left;
-}
-
-.carousel-2 {
-    display: block;
-    clear: both;
-    float: left;
+.card-text {
+    font-family: 'Economica', sans-serif;
+    text-transform: uppercase;
 }
