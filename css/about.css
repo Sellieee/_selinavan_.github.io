@@ -118,3 +118,7 @@ nav {
 .profile {
     float: left;
 }
+
+h1 {
+    padding-left: 30px;
+}
