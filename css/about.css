@@ -114,3 +114,7 @@ nav {
     text-transform: uppercase;
     font-size: 125%;
 }
+
+.profile {
+    float: left;
+}

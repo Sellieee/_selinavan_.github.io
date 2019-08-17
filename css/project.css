@@ -96,3 +96,21 @@ nav {
     text-transform: uppercase;
     font-size: 125%;
 }
+
+.card-row-1 .card-row-2 {
+    display: block;
+}
+
+.card {
+    clear: both;
+    height: 300px;
+    width: 1000px;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.contact-me {
+    display: block;
+}
