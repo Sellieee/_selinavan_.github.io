@@ -2,6 +2,7 @@ body {
     background-image: url("../images/wallpaper.gif");
     width: 100%;
     height: 100%;
+    margin: 0 auto;
 }
 
 nav {
@@ -16,12 +17,19 @@ nav {
 }
 
 .flex-container {
+    height: 100%;
+    width: 100%;
+    margin: auto;
     padding: 100px;
     list-style: none;
     display: flex;
     align-items: center;
     justify-content: center;
-    text-align: center;
+}
+
+.row{
+    width: auto;
+    justify-content: center;
 }
 
 .fa-chevron-circle-down {
@@ -136,4 +144,6 @@ nav {
 
 .card-deck {
     display: flex;
+    height: 200px;
+    justify-content: center;
 }
