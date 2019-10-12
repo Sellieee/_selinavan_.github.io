@@ -33,7 +33,7 @@ nav {
 }
 
 .fa-chevron-circle-down {
-    color: firebrick;
+    color: rgb(255, 50, 50);;
 }
 
 .nav-link {
@@ -51,18 +51,19 @@ nav {
 }
 
 #current-page:hover {
-    color: white;
-    background-color: firebrick;
+    background-color: rgb(255, 50, 50);;
     text-decoration: none;
+    color: white;
 }
 
 #second-page:hover {
     background-color: goldenrod;
     text-decoration: none;
+    color: white;
 }
 
 .navbar-brand {
-    color: firebrick;
+    color: rgb(255, 50, 50);;
     font-family: 'Economica', sans-serif;
     text-transform: uppercase;
     font-size: 125%;
@@ -99,7 +100,7 @@ nav {
 }
 
 .contact {
-    color: firebrick;
+    color: rgb(255, 50, 50);;
     font-family: 'Economica', sans-serif;
     text-transform: uppercase;
     font-size: 125%;
