@@ -1,20 +1,31 @@
 $(document).ready(function () {
     $(".img-1").on("click", function () {
-        window.open("https://sellieee.github.io/SC_200/")
+        // Medule
+        window.open("https://medule-medical-scheduler.herokuapp.com/")
     });
     $(".img-2").on("click", function () {
-        window.open("https://sellieee.github.io/Train-Activity/")
+
+        // Toast
+        window.open("https://toast-2019.herokuapp.com/")
     });
     $(".img-3").on("click", function () {
-        window.open("https://sellieee.github.io/Bootstrap-Portfolio/")
+
+        // Disconnect
+        window.open("https://sellieee.github.io/SC_200/")
     });
     $(".img-4").on("click", function () {
-        window.open("https://sellieee.github.io/TriviaGame/")
+
+        // Sellieee
+        window.open("https://github.com/Sellieee/sellieee.github.io")
     });
     $(".img-5").on("click", function () {
-        window.open("https://sellieee.github.io/Psychic-Game/")
+
+        // Train activity
+        window.open("https://sellieee.github.io/Train-Activity/")
     });
     $(".img-6").on("click", function () {
-        window.open("https://sellieee.github.io/Responsive-Portfolio/")
+
+        // Trivia Game
+        window.open("https://sellieee.github.io/TriviaGame/")
     });
 })
